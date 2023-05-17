@@ -10,3 +10,6 @@ In the command line,run the command
 `node app.js` to run the application on a local server
 Type `localhost:3000` in your browser to view it.
 
+
+![image](https://github.com/sruthikkoneti/To-Do-List/assets/97946223/a775ae18-fc75-4152-aed9-26ab8d4e25f1)
+
